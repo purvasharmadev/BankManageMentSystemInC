@@ -13,7 +13,7 @@ This programs uses:
 >> Conditional Operators
 
 
-# All the variables used in this program are declared globally so that they can be accessed by the functions
+All the variables used in this program are declared globally so that they can be accessed by the functions
 
 #Function-1:
 
